@@ -43,7 +43,7 @@ span.inside {
 }
 
 .mauve {
-    color: #987284;
+    color: #B597D8;
 }
 .teal {
     color: #75B9BE;
@@ -52,8 +52,12 @@ span.inside {
     color: #B5BE89;
 }
 .blush {
-    color: #F9B5AC;
+    color: #F6998D;
+    
+    /*#F9B5AC; */
 }
-.coral {
-    color: #EE7674;
+.orange {
+    color: #F3AE53;
+    
+   /* #F5C07A; */
 }
