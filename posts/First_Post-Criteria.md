@@ -48,7 +48,7 @@ _- "EU cookie and tracking policies must be honoured where necessary."_
 >received;
 > - collect consent via an explicit opt-in action
 
-In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be available for users to navigate to.
+>In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be >available for users to navigate to.
 
 _- "Responsive design for Desktop and Mobile devices"_
 
