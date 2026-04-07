@@ -1,3 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*CSS main test post specific testing - NOT TO BE USED FOR OFFICIAL POSTS */
+
+
+
+
 .first {
     color:blue
 }
@@ -5,4 +40,20 @@
 span.inside {
     color:cornflowerblue;
     font-style:oblique;
+}
+
+.mauve {
+    color: #987284;
+}
+.teal {
+    color: #75B9BE;
+}
+.mint {
+    color: #D0D6B5;
+}
+.blush {
+    color: #F9B5AC;
+}
+.coral {
+    color: #EE7674;
 }
