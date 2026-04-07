@@ -28,36 +28,37 @@ The design solution must be able to seamlessly remember and handle a user across
 
 Implicit values are being shared here: the importance of the solution is not only to ensure that information provided to and by the users are accurate and useful, but that the experience of accessing that information is curated; engaging and designed to fit the community they are serving. Users appreciate and expect a unique experience that highlights their interests and helps them connect to like-minded people, and it is that experience that will keep users coming back to BlaBla - any forum can hold good information after all, so the presentation of that information is what will excite, engage and retain users. 
 
-#Core Requirements
+# Core Requirements
  
->_"- Designed to a AA accessibility compliance standard or better."_
+_- "Designed to a AA accessibility compliance standard or better."_
 
-The solution has to include relevant accessibility features, and the aesthetic design, including fonts, palettes, and images, must pass AA standards - preferably AAA standards where possible.
+>The solution has to include relevant accessibility features, and the aesthetic design, including fonts, palettes, and images, must pass AA standards - preferably AAA standards where possible.
 
->_"- EU cookie and tracking policies must be honoured where necessary."_
-Information regarding EU Cookie and Tracking policies have been obtained from [iubenda](https://www.iubenda.com/wp-content/uploads/2020/12/cookies-consent-tracking-eu.pdf "Cookies, consent and tracking in the EU")
+_- "EU cookie and tracking policies must be honoured where necessary."_
 
-EU Cookie Law states:
->"Cookie Law requires users’ informed consent before storing cookies on a
+>Information regarding EU Cookie and Tracking policies have been obtained from [iubenda](https://www.iubenda.com/wp-content/uploads/2020/12/cookies-consent-tracking-eu.pdf "Cookies, consent and >tracking in the EU").
+
+>EU Cookie Law states (directly taken from iubenda):
+>Cookie Law requires users’ informed consent before storing cookies on a
 >user’s device and/or tracking them.
 >Specifically you must:
 > - display a clearly visible cookie banner/ notice at the user’s first >visit;
 > - provide a link in the banner to a more detailed Cookie Policy;
 > - block all non-exempt cookies and scripts from being run until consent >is
 >received;
-> - collect consent via an explicit opt-in action"
+> - collect consent via an explicit opt-in action
 
 In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be available for users to navigate to.
 
->_"Responsive design for Desktop and Mobile devices"_
+_- "Responsive design for Desktop and Mobile devices"_
 
-The design solution has to be resizable based on different screen sizes/formats available.
+>The design solution has to be resizable based on different screen sizes/formats available.
 
->_"Code must be based on the BlaBla Corp prototype template (this provides the foundations for the tech stack)."_
+_- "Code must be based on the BlaBla Corp prototype template (this provides the foundations for the tech stack)."_
 
-Do not replace any part of the tech stack !
+>Do not replace any part of the tech stack !
 
->_"Ideal load times should be less than 1-second and must not take longer than 3-seconds"_
+_- "Ideal load times should be less than 1-second and must not take longer than 3-seconds"_
 
-The design solution should be quick! Code optimisation, including database queries and image loading, need to be considered, implemented and tested - a slow website is a bad website. 
+>The design solution should be quick! Code optimisation, including database queries and image loading, need to be considered, implemented and tested - a slow website is a bad website. 
 
