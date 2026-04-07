@@ -8,7 +8,7 @@ tags:
   - Requirements
   - Theory
 ---
-Write your content here. (<-- DELETE PLEASE)
+Write your content here. (<-- DELETE PLEASE) !
 
 # Design Brief
 
