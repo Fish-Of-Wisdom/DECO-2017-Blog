@@ -13,3 +13,5 @@ This is a testing page for markdown, CSS, etc to have a localised area and docum
 
 
 <p class="first"> testing embedding css stylesheet into markdown directly. </p>
+
+testing <span class="inside"> styling elements </span> within a sentence. 
