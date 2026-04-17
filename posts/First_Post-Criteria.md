@@ -38,17 +38,17 @@ _- "<span class="teal">EU cookie and tracking policies </span> must be honoured 
 
 >Information regarding EU Cookie and Tracking policies have been obtained from [iubenda](https://www.iubenda.com/wp-content/uploads/2020/12/cookies-consent-tracking-eu.pdf "Cookies, consent and >tracking in the EU").
 
->EU Cookie Law states (directly taken from iubenda):
+>"EU Cookie Law states (directly taken from iubenda):
 >Cookie Law requires users’ informed consent before storing cookies on a
 >user’s device and/or tracking them.
 >Specifically you must:
-> - display a clearly visible cookie banner/ notice at the user’s first >visit;
+> - display a clearly visible cookie banner/ notice at the user’s first visit;
 > - provide a link in the banner to a more detailed Cookie Policy;
-> - block all non-exempt cookies and scripts from being run until consent >is
+> - block all non-exempt cookies and scripts from being run until consent is
 >received;
-> - collect consent via an explicit opt-in action
+> - collect consent via an explicit opt-in action"
 
->In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be >available for users to navigate to.
+In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be >available for users to navigate to.
 
 _- "<span class="orange"> Responsive design </span> for Desktop and Mobile devices"_
 
