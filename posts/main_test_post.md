@@ -9,7 +9,8 @@ tags:
   - Markdown
 ---
 <link rel="stylesheet" href="assets/markdownstyle.css">
-This is a testing page for markdown, CSS, etc to have a localised area and documented testing space before applying elements to their intended posts. This may or may not be permanent, and if kept does not contain explicit content regarding A2 - any related content is likely duplicated. 
+
+Hello! This is a testing page for markdown, CSS, etc to have a localised area and documented testing space before applying elements to their intended posts. This may or may not be permanent, and if kept does not contain explicit content regarding A2 - any related content is likely duplicated. 
 
 
 <p class="first"> testing embedding css stylesheet into markdown directly. </p>

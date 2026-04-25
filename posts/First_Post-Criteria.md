@@ -1,6 +1,6 @@
 ---
 title: First Post - Brief and Requirements
-date: 2026-04-07
+date: 2026-07-04
 author: Sophia
 summary: Introductory Blog Post + Understanding Assignment Brief and Criteria.
 tags:
