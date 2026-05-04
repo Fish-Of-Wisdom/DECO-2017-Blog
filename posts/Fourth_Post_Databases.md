@@ -1,6 +1,6 @@
 ---
 title: Post Title
-date: 2026-01-05
+date: 2026-05-01
 author: Sophia
 summary: Diving into how SQL and databases work, and what that looks like in this project.
 tags:

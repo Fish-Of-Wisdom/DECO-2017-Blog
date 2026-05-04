@@ -1,6 +1,6 @@
 ---
 title: First Post - Brief and Requirements
-date: 2026-07-04
+date: 2026-04-07
 author: Sophia
 summary: Introductory Blog Post + Understanding Assignment Brief and Criteria.
 tags:
@@ -22,7 +22,7 @@ This is the main context of our design solution: the brief is asking for a solut
 
 >_"Community hubs form <span class="teal"> points of connection </span> across the BlaBla Corp. Social media network. This means that a user of BlaBla Corp, colloquially termed a blabber, can use their one log-in across <span class="mauve"> multiple community hubs. </span> Note that this means you do not need a signup page for any prototype as this is handled as a core part of the BlaBla Corp web presence."_
 
-The design solution must be able to seamlessly remember and handle a user across multiple hubs. (ADD MORE PLEASE)
+The design solution must be able to seamlessly remember and handle a user across multiple hubs, including user information, preferences, and any style/theme/accessibility functionalities they may utilise.
 
 >_"The <span class="blush">core </span> of any community hub is the <span class="mauve"> information which members share </span> on the platform and the <span class="mint">experience they share. </span> Choosing the right information <span class="teal">shapes the community to thrive </span> as the members <span class="mauve">feel connected.</span> <span class="blush">Curating the right experience </span> is what keeps them <span class="orange">coming back.</span> It also makes for a <span class="orange">more valuable market section </span> in which we can sell advertising space. Therefore, <span class="teal">information and experience </span> are the core of both  <span class="mint"> our business </span> and our <span class="blush">blabber's experience."_</span>
 
