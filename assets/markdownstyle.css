@@ -2,7 +2,16 @@
 
 
 
+.note {
+    background-color: #B5BE89;
+    font-style: oblique;
+}
 
+.note_start {
+    font-weight:bold;
+    font-style:normal;
+   
+}
 
 
 
