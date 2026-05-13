@@ -22,7 +22,7 @@ We were directed to create DDD's out of every single element of data in our wire
 
 Whenever an element called for a list, it was given its own table.
 
-[IMAGE: SHOW AS MANY TABLES AS YOU CAN HERE]
+<img class="toSize" src="assets/img/ddd.png">
 
 After completing our DDD's, we needed to figure out the cardinality of each element - required for our ERD's and best worked out beforehand. 
 
@@ -36,7 +36,7 @@ After a first pass/completing our ERDS, we had to decide what was truly necessar
 
 Once that was decided, we actually had to build our ERD! Both of us decided to complete our own versions, to better understand the process and practice creating them while thinking through them independently.
 
-[IMAGE OF ERD]
+<img class="toSize" src="assets/img/erd.png">
 
 This is my pass at an ERD! It was built mostly following our wireframe and DDD of the home page, however the content on other pages would also be handled by the same tables, so it reflects our application as a whole.
 

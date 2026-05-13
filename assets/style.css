@@ -86,3 +86,8 @@ ul.post-list{
 /* CSS testing zone ! */
 
 
+
+.toSize {
+    max-width: 100%;
+    height: auto;
+}
