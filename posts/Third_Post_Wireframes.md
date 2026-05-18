@@ -1,6 +1,6 @@
 ---
-title: Wireframes
-date: 2026-04-25, 
+title: Post 3 - Wireframes
+date: 2026-04-26, 
 author: Sophia
 summary: Visual designing and creating layouts to discover core functionalities. 
 tags:

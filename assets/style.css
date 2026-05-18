@@ -24,25 +24,10 @@ main {
   padding: 2rem;
 }
 
-
-.header-background {
-  position:relative;
-  text-align:center;
+main h1 {
+  padding:1rem 0;
+  border-bottom: light-dark(#ccc2, #fff2) 1px solid;
 }
-
-.header-background img {
-   max-width: var(--max-width);
-   width:100%;
-}
-
-.header-background h1 { /*code taken from w3 schools - How to position a text over an image */
-  font-size: 2.5rem; 
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 
 a {
   color: light-dark(var(--light-accent), var(--dark-accent));
@@ -82,12 +67,46 @@ ul.post-list{
     list-style: none;
 }
 
-
-/* CSS testing zone ! */
-
-
-
-.toSize {
-    max-width: 100%;
-    height: auto;
+ul li:nth-child(1) a {
+  color:#F3AE53;
 }
+
+ul li:nth-child(2) a {
+  color:#F6998D;
+}
+
+ul li:nth-child(3) a {
+  color:#75B9BE;
+}
+
+ul li:nth-child(4) a {
+  color:#B5BE89;
+}
+
+ul li:nth-child(5) a {
+  color:#B597D8;
+}
+
+
+/*AI generated/assisted*/
+
+.post-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid light-dark(#ccc2, #fff2);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list li a {
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.post-list li a:hover {
+  filter: brightness(1.25);
+}
+
+
