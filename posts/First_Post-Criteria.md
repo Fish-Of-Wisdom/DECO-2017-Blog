@@ -48,7 +48,7 @@ _- "<span class="teal">EU cookie and tracking policies </span> must be honoured 
 >received;
 > - collect consent via an explicit opt-in action"
 
-In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be >available for users to navigate to.
+In summary, the design solution must only run necessary cookies until a user has opted in on a visible banner/notice that is provided upon first visit, and a cookie policy must exist and be available for users to navigate to.
 
 _- "<span class="orange"> Responsive design </span> for Desktop and Mobile devices"_
 
@@ -61,4 +61,8 @@ _- "Code must be based on the BlaBla Corp <span class="blush">prototype template
 _- "Ideal load times should be <span class="mauve">less than </span> 1-second and must not <span class="mauve">take longer than </span> 3-seconds"_
 
 >The design solution should be quick! Code optimisation, including database queries and image loading, need to be considered, implemented and tested - a slow website is a bad website. 
+
+While this design brief is structured to cater towards us as students, learning the tech stack for the first time, it includes a lot of good professional practices. Elements like required accessibility constraints that match the strictest country/ies policies makes sense for an international company. Quick load times, responsive sizing, explicitly stating to not manipulate tech stack programs: all of these points fit not only when teaching students, but when designing professional solutions.
+
+With that in mind, it is quite likely that the finished project is closer to a demo than a fully fleshed out project - requiring more time, and frankly, more skill/experience than I currently have. However, it should still be of higher calibre than a rough prototype - styling and visual language should be polished, functionality should be present and well executed, and real content, even if it is limited, should be used (no placeholders!). 
 
